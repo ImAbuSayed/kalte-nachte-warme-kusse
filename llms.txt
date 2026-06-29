@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kalte-nachte-warme-kusse/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Kalte Nächte warme Küsse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalte-nachte-warme-kusse/) |
+| **Get License** | [Obtain a Music License for Kalte Nächte warme Küsse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalte-nachte-warme-kusse/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4630)
 
 ---
 
